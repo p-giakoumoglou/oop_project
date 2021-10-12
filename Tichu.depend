@@ -1,0 +1,157 @@
+# depslib dependency file v1.0
+1591177190 source:d:\university\2nd semester\object oriented programming\tichu5\card.cpp
+	<sstream>
+	"card.h"
+
+1591004507 d:\university\2nd semester\object oriented programming\tichu5\card.h
+	<string>
+
+1590972099 source:d:\university\2nd semester\object oriented programming\tichu5\cardimplementations.cpp
+	"card.h"
+	<iostream>
+
+1591177190 source:d:\university\2nd semester\object oriented programming\tichu5\combination.cpp
+	"combination.h"
+
+1591194194 d:\university\2nd semester\object oriented programming\tichu5\combination.h
+	<string>
+	"card.h"
+
+1591481936 source:d:\university\2nd semester\object oriented programming\tichu5\deck.cpp
+	<algorithm>
+	"deck.h"
+	"shuffler.h"
+
+1591177191 d:\university\2nd semester\object oriented programming\tichu5\deck.h
+	"card.h"
+
+1591004078 d:\university\2nd semester\object oriented programming\tichu5\shuffler.h
+	<iostream>
+	<time.h>
+	<stdlib.h>
+
+1591177191 source:d:\university\2nd semester\object oriented programming\tichu5\game.cpp
+	<iostream>
+	"game.h"
+
+1591177191 d:\university\2nd semester\object oriented programming\tichu5\game.h
+	"table.h"
+	"deck.h"
+	"player.h"
+
+1591177191 d:\university\2nd semester\object oriented programming\tichu5\table.h
+	"combination.h"
+
+1591619366 d:\university\2nd semester\object oriented programming\tichu5\player.h
+	<vector>
+	<utility>
+	<iostream>
+	<string>
+	"hand.h"
+	"table.h"
+	"combination.h"
+	"Node.h"
+
+1591194194 d:\university\2nd semester\object oriented programming\tichu5\hand.h
+	<string>
+	"combination.h"
+
+1591177191 source:d:\university\2nd semester\object oriented programming\tichu5\hand.cpp
+	<iostream>
+	<sstream>
+	"hand.h"
+	"card.h"
+	"combination.h"
+
+1591638001 source:d:\university\2nd semester\object oriented programming\tichu5\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"table.h"
+	"deck.h"
+	"player.h"
+	"game.h"
+	"Node.h"
+	"tablehand.h"
+	"deckplayed.h"
+
+1591563342 source:d:\university\2nd semester\object oriented programming\tichu5\player.cpp
+	<cstdlib>
+	<iostream>
+	"player.h"
+	"shuffler.h"
+	"node.h"
+	"deckplayed.h"
+	"tablehand.h"
+
+1591177191 source:d:\university\2nd semester\object oriented programming\tichu5\table.cpp
+	"table.h"
+
+1591637451 source:d:\university\2nd semester\object oriented programming\tichu5\smartplayer.cpp
+	<cstdlib>
+	"player.h"
+	"shuffler.h"
+	"combination.h"
+	"hand.h"
+	"evaluation.h"
+	"deckplayed.h"
+	"tablehand.h"
+
+1591265304 source:d:\university\2nd semester\object oriented programming\tichu5\node.cpp
+	"Node.h"
+
+1591631391 d:\university\2nd semester\object oriented programming\tichu5\node.h
+	"hand.h"
+	"combination.h"
+	"player.h"
+	<iostream>
+	<cstdlib>
+
+1591272352 source:d:\university\2nd semester\object oriented programming\tichu5\packet.cpp
+	"Packet.h"
+
+1591275286 d:\university\2nd semester\object oriented programming\tichu5\packet.h
+	"Node.h"
+
+1591446826 source:d:\university\2nd semester\object oriented programming\tichu5\wot.cpp
+	"wot.h"
+
+1591446857 d:\university\2nd semester\object oriented programming\tichu5\wot.h
+
+1591447055 source:d:\university\2nd semester\object oriented programming\tichu5\deckplayed.cpp
+	"deckplayed.h"
+
+1591540886 d:\university\2nd semester\object oriented programming\tichu5\deckplayed.h
+	<vector>
+	<utility>
+	<string>
+	<iostream>
+	"Player.h"
+	"hand.h"
+	"table.h"
+	"card.h"
+
+1591447064 source:d:\university\2nd semester\object oriented programming\tichu5\evaluation.cpp
+	"evaluation.h"
+
+1591484479 d:\university\2nd semester\object oriented programming\tichu5\evaluation.h
+	<utility>
+	<vector>
+	"Node.h"
+	"hand.h"
+	"combination.h"
+	"player.h"
+	"DeckPlayed.h"
+
+1591563180 source:d:\university\2nd semester\object oriented programming\tichu5\tablehand.cpp
+	"tablehand.h"
+	<iostream>
+	<sstream>
+	"hand.h"
+	"card.h"
+	"combination.h"
+
+1591539305 d:\university\2nd semester\object oriented programming\tichu5\tablehand.h
+	<string>
+	"combination.h"
+
